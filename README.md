@@ -25,6 +25,12 @@ The dashboard provides insights into:
 ![Dashboard](dashboard-screenshots/recycling-analysis.png)
 ![Dashboard](dashboard-screenshots/waste-generation-map.png)
 
+## 🌍 Interactive Dashboard in Power BI
+
+You can see the full dashboard here:
+
+👉 [See Dashboard in Power BI](https://app.powerbi.com/view?r=eyJrIjoiODZjNjQ1YmMtYWE2Mi00ZGFiLTk3ZjUtOGI4MzRiMzc3MWQ3IiwidCI6IjRjODE4Zjc5LWFiODQtNDU1Mi05YjdjLTJmZTcxNWIwZDBkNSIsImMiOjR9)
+
 ## Data Sources
 
 Global waste management datasets used for sustainability analysis.
