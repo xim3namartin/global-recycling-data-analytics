@@ -31,4 +31,4 @@ Global waste management datasets used for sustainability analysis.
 
 Full project documentation:
 
-documentation/recycling-analysis-report.pdf
+documentation/Proyecto final Residuos Y Reciclaje 13-04-22.pdf
