@@ -22,6 +22,8 @@ The dashboard provides insights into:
 ## Dashboard Preview
 
 ![Dashboard](dashboard-screenshots/dashboard-overview.png)
+![Dashboard](dashboard-screenshots/recycling-analysis.png)
+![Dashboard](dashboard-screenshots/waste-generation-map.png)
 
 ## Data Sources
 
